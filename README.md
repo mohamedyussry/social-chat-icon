@@ -14,6 +14,9 @@ A WordPress plugin that adds a customizable WhatsApp chat icon to your website.
 ### Settings Page
 ![Plugin Settings Page](images/settings-page.png)
 
+### Plugin Check
+![Plugin Check Results](images/plugin-check.png)
+
 ## Installation
 1. Upload the plugin files to the `/wp-content/plugins/social-chat-icon` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
