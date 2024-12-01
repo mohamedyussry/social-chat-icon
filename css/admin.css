@@ -1,0 +1,70 @@
+/**
+ * Social Chat Icon - Admin Styles
+ */
+
+.sci-settings-page {
+    max-width: 800px;
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.sci-settings-page h2 {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+    color: #23282d;
+}
+
+.sci-settings-page .form-table {
+    margin-top: 20px;
+}
+
+.sci-settings-page .form-table th {
+    padding: 20px 10px 20px 0;
+    width: 200px;
+}
+
+.sci-settings-page .form-table td {
+    padding: 20px 10px;
+}
+
+.sci-settings-page input[type="text"],
+.sci-settings-page textarea {
+    width: 100%;
+    max-width: 400px;
+}
+
+.sci-settings-page .description {
+    margin-top: 5px;
+    color: #666;
+    font-style: italic;
+}
+
+.sci-settings-page .submit {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+/* Success Message */
+.sci-success {
+    margin: 20px 0;
+    padding: 10px 15px;
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    border-radius: 3px;
+    color: #3c763d;
+}
+
+/* Error Message */
+.sci-error {
+    margin: 20px 0;
+    padding: 10px 15px;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    border-radius: 3px;
+    color: #a94442;
+}

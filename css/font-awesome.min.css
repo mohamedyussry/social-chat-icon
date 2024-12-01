@@ -1,0 +1,12 @@
+/* Add Font Awesome CSS here */
+    /* You can download the CSS from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css */
+    /* For example, you can use the following content: */
+    @font-face {
+      font-family: 'Font Awesome 6 Free';
+      font-style: normal;
+      font-weight: 400;
+      font-display: block;
+      src: url('../fonts/fontawesome-free-6.0.0-beta3/webfonts/fa-regular-400.woff2') format('woff2'), url('../fonts/fontawesome-free-6.0.0-beta3/webfonts/fa-regular-400.woff') format('woff');
+    }
+
+    /* Add more Font Awesome CSS as needed */

@@ -1,0 +1,111 @@
+# Copyright (C) 2023 meme001
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Chat Icon 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/social-chat-icon\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-20T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: social-chat-icon\n"
+
+#. Plugin Name of the plugin
+msgid "Social Chat Icon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add a floating chat icon to your WordPress site for easy communication."
+msgstr ""
+
+#. Author of the plugin
+msgid "meme001"
+msgstr ""
+
+#: social-chat-icon.php:96
+msgid "Chat Settings"
+msgstr ""
+
+#: social-chat-icon.php:127
+msgid "Phone Number"
+msgstr ""
+
+#: social-chat-icon.php:142
+msgid "Icon Position"
+msgstr ""
+
+#: social-chat-icon.php:157
+msgid "Icon Size"
+msgstr ""
+
+#: social-chat-icon.php:172
+msgid "Default Message"
+msgstr ""
+
+#: social-chat-icon.php:187
+msgid "Display on All Pages"
+msgstr ""
+
+#: social-chat-icon.php:299
+msgid "Settings Saved"
+msgstr ""
+
+#: social-chat-icon.php:324
+msgid "Configure your chat icon settings below. Make sure to enter a valid phone number with country code."
+msgstr ""
+
+#: social-chat-icon.php:342
+msgid "Example: 14155552671"
+msgstr ""
+
+#: social-chat-icon.php:346
+msgid "Enter your full phone number including country code without spaces or special characters."
+msgstr ""
+
+#: social-chat-icon.php:347
+msgid "Example: 14155552671 for +1 415 555 2671"
+msgstr ""
+
+#: social-chat-icon.php:356
+msgid "Right"
+msgstr ""
+
+#: social-chat-icon.php:359
+msgid "Left"
+msgstr ""
+
+#: social-chat-icon.php:363
+msgid "Choose which side of the screen to display the chat icon."
+msgstr ""
+
+#: social-chat-icon.php:379
+msgid "Enter icon size in pixels (between 20 and 100)."
+msgstr ""
+
+#: social-chat-icon.php:396
+msgid "Hello! I have a question about..."
+msgstr ""
+
+#: social-chat-icon.php:398
+msgid "Default message that will be pre-filled in chat. Leave empty for no pre-filled message."
+msgstr ""
+
+#: social-chat-icon.php:415
+msgid "Show the chat icon on all pages"
+msgstr ""
+
+#: social-chat-icon.php:418
+msgid "If unchecked, the icon will only appear on the homepage."
+msgstr ""
+
+#: social-chat-icon.php:484
+msgid "Chat"
+msgstr ""
+
+#: social-chat-icon.php:561
+msgid "Settings"
+msgstr ""

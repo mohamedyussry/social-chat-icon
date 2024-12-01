@@ -1,0 +1,42 @@
+/**
+ * Social Chat Icon - Frontend Styles
+ * WhatsApp theme
+ */
+
+.sci-chat-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #25D366;
+    border-radius: 50%;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    z-index: 99999;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.sci-chat-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+    background-color: #128C7E;
+}
+
+.sci-chat-icon:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #25D366;
+}
+
+.sci-chat-icon svg {
+    width: 100%;
+    height: 100%;
+    fill: #ffffff;
+    transition: fill 0.3s ease;
+}
+
+/* Mobile Optimization */
+@media screen and (max-width: 768px) {
+    .sci-chat-icon {
+        padding: 10px;
+    }
+}
